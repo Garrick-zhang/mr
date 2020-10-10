@@ -4,18 +4,6 @@
 
 	wx.getLocation接口，测试时获取的经纬度一直不变
 
-版本信息：
-微信web开发者工具 v0.10.101100
-
-
-## Screenshot
-
-
-![](./image/screenshot1.png)
-
-![](./image/screenshot2.png)
-
-![](./image/navigator.jpg)
 
 
 
