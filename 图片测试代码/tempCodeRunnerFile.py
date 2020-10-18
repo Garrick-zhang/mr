@@ -1,0 +1,1 @@
+travel_image('b.jpg','afe.jpg','single_tower.png',0.45)
